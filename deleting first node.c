@@ -43,3 +43,4 @@ int main(){
        printf("After deletion: ");
     likedlist(head);
 }
+.
